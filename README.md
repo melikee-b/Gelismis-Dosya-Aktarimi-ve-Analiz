@@ -55,4 +55,10 @@ Bu proje, Python socket programlama kullanarak **güvenli ve hızlı dosya aktar
 
 ## 🎯 Sonuç ve Katkı
 
-Bu proje, güvenilir ve hızlı dosya aktarımı yaparken aynı zamanda ağ performansını analiz etmeyi ve veri bütünlüğünü sağlamayı amaçlamaktadır. Katkıda bulunmak veya öneri sunmak isterseniz, lütfen PR açmaktan çekinmeyin! 🚀✨
+Bu proje, güvenilir ve hızlı dosya aktarımı yaparken aynı zamanda ağ performansını analiz etmeyi ve veri bütünlüğünü sağlamayı amaçlamaktadır.🚀✨
+
+---
+
+📹 **Proje Açıklama Videosu:**  
+👉 [YouTube Linki](https://youtu.be/pJFZ6lGiv5M)
+
